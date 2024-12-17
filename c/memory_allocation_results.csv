@@ -1,0 +1,4 @@
+Size (ints),Size (bytes),Single Allocation Time (ms),Chunked Allocation Time (ms)
+100,400,0.000154000,0.002520000
+10000,40000,0.000098000,0.006737000
+1000000,4000000,0.000028000,0.005205000
